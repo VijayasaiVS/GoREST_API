@@ -1,7 +1,7 @@
 # GoREST API - Basic REST Methods
 
 ### Description:
-This program lets you understand basic REST MEthods like GET, POST, CREATE, DELETE, PUT(UPDATE) on a Online REST DB Website [GoREST API](https://gorest.co.in/)
+This program lets you understand basic REST MEthods like **GET, POST, CREATE, DELETE, PUT(UPDATE)** on a Online REST DB Website [GoREST API](https://gorest.co.in/)
 
 ### Pre-requisutes:
 1. pandas\==1.2.4
